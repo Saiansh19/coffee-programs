@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Exp {
+public class Lab4 {
     void method() {
         int x, i, choice, n = 0;
         int sum = 0, largest = 0, smallest = 0;
@@ -65,9 +65,9 @@ public class Exp {
 	}
 }
 
-class Lab4 {
+class Exp {
     public static void main(String[] args) {
-        Exp ex = new Exp();
+        Lab4 ex = new Lab4();
         ex.method();
 	}
 }

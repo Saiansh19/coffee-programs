@@ -1,6 +1,6 @@
 import java.util.*;
 
-class SimpleMaths {
+class Lab6SimpleMaths {
     static int add(int a, int b) {
         return a + b;
     }
